@@ -1,0 +1,6 @@
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
+kind(acute_respiratory_infections_of_upper_respiratory_tract):-zawod(Grafik).
